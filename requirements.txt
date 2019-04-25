@@ -1,0 +1,7 @@
+dataclasses
+django
+https://github.com/KSNikolaus/tom_base/archive/master.zip
+gunicorn
+django-heroku
+django-storages
+boto3
