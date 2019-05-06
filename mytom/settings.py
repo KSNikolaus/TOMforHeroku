@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'django_extensions',
     'tom_common',
     'django_comments',
+    'guardian',
     'bootstrap4',
     'crispy_forms',
     'django_filters',
