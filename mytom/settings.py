@@ -29,7 +29,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-LCO_API = os.environ.get("LCO_API_token")
+LCO_API = os.environ["LCO_API_token"]
+#LCO_API = os.environ.get("LCO_API_token")
 #LCO_API = "0"
 
 # Application definition
