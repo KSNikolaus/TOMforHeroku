@@ -1,6 +1,6 @@
 dataclasses
 django
-https://github.com/KSNikolaus/tom_base/archive/master.zip
+https://github.com/TOMToolkit/tom_base/archive/master.zip
 gunicorn
 django-heroku
 django-storages
